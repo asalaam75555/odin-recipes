@@ -1,0 +1,1 @@
+This following project is to evaluate my understanding of the basic html thought in the odin's project fundamental course.
